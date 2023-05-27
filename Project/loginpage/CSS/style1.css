@@ -1,0 +1,17 @@
+body {
+	background-color: grey;
+	color: white;
+	text-align: center;
+}
+
+h2{
+	font-size: 50;
+}
+
+h3{
+	font-size: 40;
+}
+
+a {
+	font-size: 30;
+}
